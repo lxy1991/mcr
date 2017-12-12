@@ -1,0 +1,14 @@
+Package: MCRALS
+Type: Package
+Title: Multivariate Curve Resolution Alternating Least Squares
+        (MCR-ALS)
+Version: 0.0.1
+Author: Rodrigo E. Gimenez
+Maintainer: Rodrigo E. Gimenez <rodrigog83@gmail.com>
+Depends: als (>=0.0.6), nnls (>= 1.1), Iso, R (>= 2.10)
+Description: Wrapper around als.
+License: GPL (>= 2)
+Packaged: 2017-12-11 UTC; reg
+Repository: -
+Date/Publication: 
+NeedsCompilation: no
